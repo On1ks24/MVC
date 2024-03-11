@@ -1,0 +1,6 @@
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\Model\bin\Debug\Model.pdb
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.dll
+E:\kekit\semestr3\c#\Laba1\Model\obj\Debug\Model.pdb
